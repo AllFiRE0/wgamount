@@ -1,0 +1,5 @@
+name: WorldGuardPlaceholders
+version: 1.0.0
+main: com.yourname.WorldGuardExpansion
+api-version: 1.16
+depend: [WorldGuard, PlaceholderAPI]
